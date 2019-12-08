@@ -2,7 +2,7 @@
 
 $api_key = '636c00a8-5686-49ec-8e5c-0a466d7dbcd8';
 $host = 'https://billplz-sandbox.com/api/v3/bills';
-$collection_id = 'z3bnjxjo';
+$collection_id = 'l3bsyop4';
 
 $data = array(
           'collection_id' => $collection_id,
